@@ -1,0 +1,14 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven
+mvnw
+mvnw.cmd
+.mvn
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
